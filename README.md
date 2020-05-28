@@ -9,4 +9,5 @@ To take it a step further, the project shall use the Smart Document Understandin
 # URL's :
 Node Red User Interface Link : https://node-red-idjve.eu-gb.mybluemix.net/ui
 
-Youtube Video Link : 
+Youtube Video Link : https://youtu.be/20MQpzYBWY8
+
